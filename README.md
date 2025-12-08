@@ -8,3 +8,6 @@ Created text files and combined them, then listed them.
 
 <img width="1106" height="411" alt="image" src="https://github.com/user-attachments/assets/0c0b71b7-eb00-43e4-b263-5f403a4d3320" />
 
+<img width="421" height="379" alt="image" src="https://github.com/user-attachments/assets/5714e260-0d3a-445d-8651-bef7fa93f9fc" />
+
+
