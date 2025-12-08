@@ -6,3 +6,5 @@ Created text files and combined them, then listed them.
 
 <img width="522" height="125" alt="image" src="https://github.com/user-attachments/assets/fc7a1faa-eec1-4c0b-8fa1-f33f6bde094f" />
 
+<img width="1106" height="411" alt="image" src="https://github.com/user-attachments/assets/0c0b71b7-eb00-43e4-b263-5f403a4d3320" />
+
